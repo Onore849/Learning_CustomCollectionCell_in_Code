@@ -14,6 +14,7 @@
 		F8FDE0392508AEB0009107E1 /* CustomCollectionViwe_in_code.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8FDE0372508AEB0009107E1 /* CustomCollectionViwe_in_code.xcdatamodeld */; };
 		F8FDE03B2508AEB1009107E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8FDE03A2508AEB1009107E1 /* Assets.xcassets */; };
 		F8FDE03E2508AEB1009107E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8FDE03C2508AEB1009107E1 /* LaunchScreen.storyboard */; };
+		F8FDE0462508B126009107E1 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8FDE0452508B126009107E1 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F8FDE03A2508AEB1009107E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8FDE03D2508AEB1009107E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F8FDE03F2508AEB1009107E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8FDE0452508B126009107E1 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F8FDE02E2508AEB0009107E1 /* AppDelegate.swift */,
 				F8FDE0302508AEB0009107E1 /* SceneDelegate.swift */,
 				F8FDE0322508AEB0009107E1 /* ViewController.swift */,
+				F8FDE0452508B126009107E1 /* CustomCollectionViewCell.swift */,
 				F8FDE0342508AEB0009107E1 /* Main.storyboard */,
 				F8FDE03A2508AEB1009107E1 /* Assets.xcassets */,
 				F8FDE03C2508AEB1009107E1 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8FDE0332508AEB0009107E1 /* ViewController.swift in Sources */,
+				F8FDE0462508B126009107E1 /* CustomCollectionViewCell.swift in Sources */,
 				F8FDE02F2508AEB0009107E1 /* AppDelegate.swift in Sources */,
 				F8FDE0312508AEB0009107E1 /* SceneDelegate.swift in Sources */,
 				F8FDE0392508AEB0009107E1 /* CustomCollectionViwe_in_code.xcdatamodeld in Sources */,
